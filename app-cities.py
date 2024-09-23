@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-plt.style.use('seaborn-v8_0')
+plt.style.use('whitegrid')
 
 
 st.title('World Cites')
